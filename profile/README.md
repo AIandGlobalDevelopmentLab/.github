@@ -1,6 +1,6 @@
 # AI & Global Development Lab
 
-The **AI & Global Development Lab** fuses modern machine‑learning with Earth‑observation data to illuminate the causes and consequences of human development across time and space — from neighbourhood‑level poverty mapping to the evaluation of large‑scale aid programmes. Our interdisciplinary team of computer scientists, economists, sociologists and political scientists works at the intersection of AI, earth observation and causal inference to generate open data, open models and open‑source software for the global research community.
+The [**AI & Global Development Lab**](https://aidevlab.org/) fuses modern machine‑learning with Earth‑observation data to illuminate the causes and consequences of human development across time and space — from neighbourhood‑level poverty mapping to the evaluation of large‑scale aid programmes. Our interdisciplinary team of computer scientists, economists, sociologists and political scientists works at the intersection of AI, earth observation and causal inference to generate open data, open models and open‑source software for the global research community.
 
 ---
 
